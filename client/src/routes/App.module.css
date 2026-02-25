@@ -3,7 +3,15 @@
   background: var(--bg-color-wt);
 }
 
-.headerContainer {}
+.lightTheme .headerContainer {
+  color: white;
+}
+
+.headerContainer {
+  height: 75px;
+  background-color: var(--header-bg-wt);
+  backdrop-filter: blur(10px);
+}
 
 .content {}
 

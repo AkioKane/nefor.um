@@ -14,7 +14,13 @@ const App: React.FC = () => {
         }`}
       >
         <header className={styles.headerContainer}>
-          
+          <div className={styles.titleContainer}>
+            <h1>neForum</h1>
+          </div>
+
+          <nav className={styles.navigationContainer}></nav>
+
+          <div className={styles.accountInfoContainer}></div>
         </header>
 
         <div className={styles.content}>

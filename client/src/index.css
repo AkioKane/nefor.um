@@ -6,6 +6,8 @@
 
 
 :root {
-  --bg-color-wt: #f0fdfa;
+  --bg-color-wt: #F8FAFC;
   --bg-color-bt: #292524;
+  --header-bg-wt: #0F172A;
+  --header-bg-bt: ;
 }
