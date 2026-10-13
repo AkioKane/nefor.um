@@ -1,9 +1,12 @@
-:root {
-
-}
+:root {}
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+body {
+  background: -webkit-linear-gradient(90deg, #000000, #030032);
+  background: linear-gradient(90deg, #000000, oklch(29.3% 0.066 243.157));
 }
